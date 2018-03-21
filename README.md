@@ -1,13 +1,11 @@
-# Web Client Sample
-
-This is a sample project that illustrates the way to create a simple api.ai
-client application.
+# dfwebhook
+DialogFlow Webhook in Eclipse for Java.
 
 ## 1. Checkout and build the source code
 
 The last version of code always can be found at Github repository:
 
-    git clone https://github.com/api-ai/apiai-java-sdk.git
+    git clone https://github.com/sanidhya09/dfwebhook.git
 
 change a work directory
 
